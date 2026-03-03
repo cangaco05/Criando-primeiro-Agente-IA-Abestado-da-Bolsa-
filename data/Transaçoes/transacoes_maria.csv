@@ -1,0 +1,22 @@
+data,descricao,categoria,valor,tipo
+2025-10-01,Salário Designer,receita,3500.00,entrada
+2025-10-01,Freelance Logo,receita,400.00,entrada
+2025-10-02,Aluguel Quarto,moradia,800.00,saida
+2025-10-03,Supermercado,alimentacao,320.00,saida
+2025-10-04,Parcela Cartão de Crédito,divida,500.00,saida
+2025-10-05,Spotify,lazer,21.90,saida
+2025-10-06,Ônibus Mensal,transporte,150.00,saida
+2025-10-08,Farmácia,saude,45.00,saida
+2025-10-10,Lanchonete,alimentacao,35.00,saida
+2025-10-12,Conta de Luz,moradia,90.00,saida
+2025-10-13,Curso de Design Online,educacao,79.90,saida
+2025-10-15,Restaurante com Amigos,lazer,60.00,saida
+2025-10-17,Uber,transporte,28.00,saida
+2025-10-18,Farmácia,saude,30.00,saida
+2025-10-20,Supermercado,alimentacao,180.00,saida
+2025-10-22,Parcela Cartão de Crédito,divida,500.00,saida
+2025-10-23,Internet,moradia,89.90,saida
+2025-10-25,Depósito Reserva de Emergência,investimento,200.00,saida
+2025-10-27,Roupa Trabalho,vestuario,120.00,saida
+2025-10-28,Ifood,alimentacao,55.00,saida
+2025-10-30,Taxa Banco,servicos,12.90,saida

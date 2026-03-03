@@ -1,0 +1,14 @@
+data,descricao,categoria,valor,tipo
+2025-10-01,Ajuda dos Pais,receita,1500.00,entrada
+2025-10-02,Ajuda Financeira aos Pais,familia,200.00,saida
+2025-10-03,Supermercado (lanches e mercado),alimentacao,180.00,saida
+2025-10-05,Ônibus/Transporte Mensal,transporte,120.00,saida
+2025-10-07,Plano de Celular,comunicacao,50.00,saida
+2025-10-08,Internet (cota da casa),comunicacao,40.00,saida
+2025-10-10,Netflix + Spotify,lazer,35.90,saida
+2025-10-12,Lanchonete com amigos,lazer,40.00,saida
+2025-10-15,Material de Estudo (cópias, caderno),educacao,60.00,saida
+2025-10-18,Farmácia (remédios),saude,35.00,saida
+2025-10-20,Alimentação na Faculdade (RU e lanches),alimentacao,120.00,saida
+2025-10-25,Ifood (sábado à noite),alimentacao,45.00,saida
+2025-10-28,Uber ida/volta faculdade,transporte,40.00,saida

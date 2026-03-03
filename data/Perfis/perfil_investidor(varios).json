@@ -1,0 +1,232 @@
+[
+  {
+    "nome": "João Silva",
+    "idade": 32,
+    "profissao": "Analista de Sistemas",
+    "renda_mensal": 5000.00,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Construir reserva de emergência",
+    "patrimonio_total": 15000.00,
+    "reserva_emergencia_atual": 10000.00,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Completar reserva de emergência",
+        "valor_necessario": 15000.00,
+        "prazo": "2026-06"
+      },
+      {
+        "meta": "Entrada do apartamento",
+        "valor_necessario": 50000.00,
+        "prazo": "2027-12"
+      }
+    ]
+  },
+  {
+    "nome": "Maria Oliveira",
+    "idade": 25,
+    "profissao": "Designer Gráfica",
+    "renda_mensal": 3500.00,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Sair das dívidas e montar primeira reserva",
+    "patrimonio_total": 2000.00,
+    "reserva_emergencia_atual": 500.00,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Quitar cartão de crédito",
+        "valor_necessario": 3000.00,
+        "prazo": "2025-03"
+      },
+      {
+        "meta": "Montar reserva de emergência de 6 meses",
+        "valor_necessario": 21000.00,
+        "prazo": "2027-01"
+      }
+    ]
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 45,
+    "profissao": "Gerente Comercial",
+    "renda_mensal": 12000.00,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Aposentadoria confortável",
+    "patrimonio_total": 250000.00,
+    "reserva_emergencia_atual": 60000.00,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Aumentar patrimônio para aposentadoria",
+        "valor_necessario": 800000.00,
+        "prazo": "2035-12"
+      },
+      {
+        "meta": "Pagar faculdade dos filhos",
+        "valor_necessario": 150000.00,
+        "prazo": "2030-02"
+      }
+    ]
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 29,
+    "profissao": "Médica Residente",
+    "renda_mensal": 9000.00,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Crescer patrimônio no longo prazo",
+    "patrimonio_total": 60000.00,
+    "reserva_emergencia_atual": 25000.00,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Juntar para dar entrada em consultório próprio",
+        "valor_necessario": 200000.00,
+        "prazo": "2030-06"
+      },
+      {
+        "meta": "Formar carteira de ações e FIIs",
+        "valor_necessario": 150000.00,
+        "prazo": "2032-12"
+      }
+    ]
+  },
+  {
+    "nome": "Bruno Almeida",
+    "idade": 38,
+    "profissao": "Motorista de Aplicativo",
+    "renda_mensal": 4000.00,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Estabilidade financeira e troca de carro",
+    "patrimonio_total": 30000.00,
+    "reserva_emergencia_atual": 8000.00,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Montar reserva de emergência de 3 meses",
+        "valor_necessario": 12000.00,
+        "prazo": "2025-12"
+      },
+      {
+        "meta": "Trocar de carro",
+        "valor_necessario": 70000.00,
+        "prazo": "2028-06"
+      }
+    ]
+  },
+  {
+    "nome": "Fernanda Costa",
+    "idade": 52,
+    "profissao": "Professora Universitária",
+    "renda_mensal": 15000.00,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Completar plano de aposentadoria",
+    "patrimonio_total": 500000.00,
+    "reserva_emergencia_atual": 90000.00,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Atingir patrimônio de 1 milhão para aposentadoria",
+        "valor_necessario": 1000000.00,
+        "prazo": "2032-01"
+      },
+      {
+        "meta": "Viajar para o exterior a cada 2 anos",
+        "valor_necessario": 30000.00,
+        "prazo": "2026-12"
+      }
+    ]
+  },
+  {
+    "nome": "Lucas Martins",
+    "idade": 21,
+    "profissao": "Estudante de Engenharia",
+    "renda_mensal": 1500.00,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Aprender a investir desde cedo",
+    "patrimonio_total": 3000.00,
+    "reserva_emergencia_atual": 1000.00,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Montar pequena reserva de emergência",
+        "valor_necessario": 6000.00,
+        "prazo": "2026-12"
+      },
+      {
+        "meta": "Construir carteira diversificada de longo prazo",
+        "valor_necessario": 50000.00,
+        "prazo": "2035-12"
+      }
+    ]
+  },
+  {
+    "nome": "Patrícia Nunes",
+    "idade": 40,
+    "profissao": "Empreendedora (Loja de Roupas)",
+    "renda_mensal": 8000.00,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Separar finanças pessoais do negócio",
+    "patrimonio_total": 100000.00,
+    "reserva_emergencia_atual": 20000.00,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Montar reserva de emergência pessoal",
+        "valor_necessario": 48000.00,
+        "prazo": "2027-01"
+      },
+      {
+        "meta": "Criar fundo para expansão da loja",
+        "valor_necessario": 150000.00,
+        "prazo": "2029-12"
+      }
+    ]
+  },
+  {
+    "nome": "Ricardo Lima",
+    "idade": 60,
+    "profissao": "Aposentado",
+    "renda_mensal": 7000.00,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Preservar patrimônio e gerar renda",
+    "patrimonio_total": 600000.00,
+    "reserva_emergencia_atual": 100000.00,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Manter renda mensal complementar",
+        "valor_necessario": 3000.00,
+        "prazo": "2035-12"
+      },
+      {
+        "meta": "Ajudar netos com educação",
+        "valor_necessario": 100000.00,
+        "prazo": "2030-01"
+      }
+    ]
+  },
+  {
+    "nome": "Juliana Rocha",
+    "idade": 34,
+    "profissao": "Desenvolvedora Front-end",
+    "renda_mensal": 9000.00,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Independência financeira antecipada",
+    "patrimonio_total": 180000.00,
+    "reserva_emergencia_atual": 40000.00,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Alcançar independência financeira (FIRE)",
+        "valor_necessario": 2000000.00,
+        "prazo": "2040-12"
+      },
+      {
+        "meta": "Comprar imóvel para aluguel",
+        "valor_necessario": 400000.00,
+        "prazo": "2030-06"
+      }
+    ]
+  }
+]

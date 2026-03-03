@@ -1,0 +1,23 @@
+{
+    "nome": "Maria Oliveira",
+    "idade": 25,
+    "profissao": "Designer Gráfica",
+    "renda_mensal": 3500.00,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Sair das dívidas e montar primeira reserva",
+    "patrimonio_total": 2000.00,
+    "reserva_emergencia_atual": 500.00,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Quitar cartão de crédito",
+        "valor_necessario": 3000.00,
+        "prazo": "2025-03"
+      },
+      {
+        "meta": "Montar reserva de emergência de 6 meses",
+        "valor_necessario": 21000.00,
+        "prazo": "2027-01"
+      }
+    ] 
+}

@@ -1,0 +1,115 @@
+[
+  {
+    "nome": "Tesouro Selic",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "100% da Selic",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Reserva de emergência e iniciantes"
+  },
+  {
+    "nome": "CDB Liquidez Diária",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "102% do CDI",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca segurança com rendimento diário"
+  },
+  {
+    "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "95% do CDI",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
+  },
+  {
+    "nome": "Fundo Multimercado",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "CDI + 2%",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Perfil moderado que busca diversificação"
+  },
+  {
+    "nome": "Fundo de Ações",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil arrojado com foco no longo prazo"
+  },
+  {
+    "nome": "Fundo Imobiliarios (FII)",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade": "DY costuma ficar entre 6% a 10% ao ano",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil moderado ao arrojado com foco no longo prazo e com risco de desvalorização"
+  }
+
+{
+    "nome": "Tesouro IPCA+",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "IPCA + 6% ao ano (exemplo)",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Proteção contra inflação e objetivos de longo prazo"
+},
+{
+    "nome": "Poupança",
+    "categoria": "renda_fixa",
+    "risco": "muito_baixo",
+    "rentabilidade": "TR + 0,5% ao mês",
+    "aporte_minimo": 1.00,
+    "indicado_para": "Iniciantes e reserva de emergência (apesar de baixo rendimento)"
+},
+{
+    "nome": "Debênture",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "IPCA + 5% ou CDI + 2%",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Investidor moderado que busca rendimento acima do CDI"
+},
+{
+    "nome": "ETF de Ações (Ex: BOVA11)",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Varia conforme o Ibovespa",
+    "aporte_minimo": 10.00,
+    "indicado_para": "Quem quer diversificação em ações sem escolher empresa por empresa"
+},
+{
+    "nome": "ETF de Renda Fixa (Ex: IMAB11)",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "Próxima ao CDI ou IPCA+",
+    "aporte_minimo": 10.00,
+    "indicado_para": "Quem quer diversificação em renda fixa com praticidade"
+},
+{
+    "nome": "Previdência Privada (PGBL/VGBL)",
+    "categoria": "previdencia",
+    "risco": "baixo_a_alto",
+    "rentabilidade": "Varia conforme o fundo escolhido",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca planejamento de longo prazo e benefícios fiscais"
+},
+{
+    "nome": "Ação Individual (Ex: PETR4)",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Variável (pode ser negativa)",
+    "aporte_minimo": 10.00,
+    "indicado_para": "Perfil arrojado que entende o risco de volatilidade"
+},
+{
+    "nome": "Criptomoeda (Ex: Bitcoin)",
+    "categoria": "alternativo",
+    "risco": "muito_alto",
+    "rentabilidade": "Extremamente variável",
+    "aporte_minimo": 10.00,
+    "indicado_para": "Investidor arrojado que aceita risco elevado e volatilidade"
+}
+]

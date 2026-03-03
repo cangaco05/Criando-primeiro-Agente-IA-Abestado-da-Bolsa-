@@ -1,0 +1,16 @@
+data,descricao,categoria,valor,tipo
+2025-10-01,Salário Gerente Comercial,receita,12000.00,entrada
+2025-10-02,Prestação Financiamento Imóvel,moradia,3500.00,saida
+2025-10-03,Plano de Saúde Familiar,saude,1800.00,saida
+2025-10-04,Mensalidade Escola Filhos,educacao,2500.00,saida
+2025-10-05,Supermercado Familiar,alimentacao,1200.00,saida
+2025-10-07,Combustível (2 carros),transporte,800.00,saida
+2025-10-08,Seguro Automóveis,transporte,600.00,saida
+2025-10-10,Contas (Luz/Água/Gás),moradia,650.00,saida
+2025-10-12,Internet + TV a cabo,servicos,350.00,saida
+2025-10-15,Restaurante Familiar,lazer,400.00,saida
+2025-10-18,Manutenção Residencial,moradia,300.00,saida
+2025-10-20,Vestuário e Calçados,vestuario,500.00,saida
+2025-10-22,Academia + Atividades Esportivas,lazer,250.00,saida
+2025-10-25,Assinaturas (Streaming/Revistas),lazer,150.00,saida
+2025-10-28,Despesas Pessoais (Barbearia/Cosméticos),pessoal,200.00,saida

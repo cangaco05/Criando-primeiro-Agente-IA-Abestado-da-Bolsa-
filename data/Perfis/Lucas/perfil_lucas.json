@@ -1,0 +1,23 @@
+{
+    "nome": "Lucas Martins",
+    "idade": 21,
+    "profissao": "Estudante de Engenharia",
+    "renda_mensal": 1500.00,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Aprender a investir desde cedo",
+    "patrimonio_total": 3000.00,
+    "reserva_emergencia_atual": 1000.00,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Montar pequena reserva de emergência",
+        "valor_necessario": 6000.00,
+        "prazo": "2026-12"
+      },
+      {
+        "meta": "Construir carteira diversificada de longo prazo",
+        "valor_necessario": 50000.00,
+        "prazo": "2035-12"
+      }
+    ]
+  }
